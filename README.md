@@ -1,6 +1,7 @@
 
-eu sou o @cleyson 
-tenho 17
-gosto muito de carros camionetas e motos e caminhão
-nasci em Borrazopolis 
-estou participando da platafor alura nesse exato momento 
+Ola eu sou o Cleyson 
+Tenho 17 anos
+Gosto muito de camionetas e motos
+Nasci em Borrazopolis 
+Sou de Borrazopolis
+Estou participando da platafor alura nesse exato momento.
